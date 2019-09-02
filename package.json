@@ -1,0 +1,15 @@
+{
+  "name": "baneveryone-bot",
+  "version": "1.0.0",
+  "description": "bans everyone from the guild",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suurv",
+  "license": "ISC"
+}
